@@ -1,0 +1,37 @@
+body
+{
+	
+
+}
+#navbar
+{
+	overflow: hidden;
+	background-color: #4CAF50;
+	color: white;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+#navbar li
+{
+	float: left;
+	display: inline;
+
+}
+li a 
+{
+	display: block;
+	color:#8b4500;
+	padding: 20px 20px;
+	text-align: center;
+	text-decoration: none;
+	font-style: normal;
+	color: white;
+}
+
+#navbar li :hover
+{
+	background-color: white;
+	color: black;
+
+}
